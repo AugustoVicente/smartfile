@@ -1,0 +1,37 @@
+#operador
+{
+    padding: 0 10% 0;
+    display: none;
+}
+#imgOperador
+{
+    padding: 45px 45px 0;
+}
+#letraOperador
+{
+    padding: 0 75px 0;
+}
+#lider
+{
+    padding: 0 7% 0;
+}
+#imgLider
+{
+    padding: 45px 20px 0;
+}
+#letraLider
+{
+    padding: 0 50px 0;
+}
+#outros
+{
+    padding: 0 5% 0;
+}
+#imgOutros
+{
+    padding: 45px 15px 0;
+}
+#letraOutros
+{
+    padding: 0 45px 0;
+}
